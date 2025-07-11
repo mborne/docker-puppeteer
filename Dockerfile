@@ -11,3 +11,8 @@ RUN apk add --no-cache \
 ENV PUPPETEER_SKIP_DOWNLOAD=true
 ENV PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser
 
+ENV XDG_CONFIG_HOME=/tmp
+ENV XDG_CACHE_HOME=/tmp
+
+
+
