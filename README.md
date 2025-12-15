@@ -10,6 +10,10 @@ docker build \
     -t puppeteer .
 ```
 
+## License
+
+[MIT](LICENSE)
+
 ## Resources
 
 * [Puppeteer - Troubleshooting](https://pptr.dev/troubleshooting)
